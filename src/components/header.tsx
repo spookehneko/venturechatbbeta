@@ -33,7 +33,7 @@ export function Header() {
                 />
               </svg>
             </a>
-            <span className="text-white font-bold text-xl">Chatbase</span>
+            <span className="text-white font-bold text-xl">Venture</span>
           </p>
           {session ? (
             <div className="flex space-x-1">
